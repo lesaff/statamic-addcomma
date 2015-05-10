@@ -9,7 +9,7 @@ Use this modifier to add comma and a white space to your value's output. You can
 1.0.0 - Initial release
 
 ## Installation
-Copy the 'statamic-addcomma' folder to the '_add-ons' folder in your Statamic website. Rename it to `addcomma`
+Copy the `statamic-addcomma` folder to the `_add-ons` folder in your Statamic website. Rename it to `addcomma`
 
 ## How to use
 
